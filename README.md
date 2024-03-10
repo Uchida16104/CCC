@@ -1,5 +1,5 @@
 # CCC
-## **Citation below.**
+## (**Citation below.)[https://framaforms.org/ccc-cookiecollectivecompilation-1705499178]**
 ### ***CCC <=> Cookie_Collective_Compilation***
 ***Dear Human, thank you for your interest in this call.***
 ***The Cookie Collective is calling for contributions for a collective visual release on the theme DIVAGATION:***
