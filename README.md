@@ -1,3 +1,3 @@
 # CCC
 ## **This shows my work.**
-### *** CCC <=> Cookie_Collective_Compilation ***
+### ***CCC <=> Cookie_Collective_Compilation***
