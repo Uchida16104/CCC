@@ -343,5 +343,3 @@ Filling this form means that you are aware all theses information shared will be
 ////////////////////
 
 Remplir ce formulaire signifie que tu es conscient.e que toutes les informations partagées seront publiques, et que tu nous autorises à les diffuser. Elles seront publiées dans le fanzine et le github. Si tu as des questions, n’hésite pas à nous contacter via ce mail : [opencallccc@proton.me](mailto:opencallccc@proton.me)
-
-Remplir ce formulaire signifie que tu es conscient.e, que toutes les informations partagées seront publiques, et que tu nous autorises à les diffuser. Elles seront publiées dans le fanzine et le github. Si tu as des questions, n’hésite pas à nous contacter via ce mail : [opencallccc@proton.me](mailto:opencallccc@proton.me)
