@@ -345,4 +345,4 @@ Filling this form means that you are aware all theses information shared will be
 Remplir ce formulaire signifie que tu es conscient.e que toutes les informations partagées seront publiques, et que tu nous autorises à les diffuser. Elles seront publiées dans le fanzine et le github. Si tu as des questions, n’hésite pas à nous contacter via ce mail : [opencallccc@proton.me](mailto:opencallccc@proton.me)
 
 
-[![CCC](https://ccc.cookie.paris/content/projects/hirotoshi-kointhecosmos/screenshot.png)](https://www.youtube.com/watch?v=TLpuL_JnnWc)
+[![CCC](https://img.youtube.com/vi/TLpuL_JnnWc/0.jpg)](https://www.youtube.com/watch?v=TLpuL_JnnWc)
