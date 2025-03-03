@@ -1,3 +1,5 @@
+[![CCC](https://i.makeagif.com/media/3-03-2025/7CID0L.gif)](https://www.youtube.com/watch?v=TLpuL_JnnWc)
+
 # <a href="https://framaforms.org/ccc-cookiecollectivecompilation-1705499178">CCC <=> Cookie_Collective_Compilation | Framaforms.org</a>
 ### Dear Human, thank you for your interest in this call.  
 The Cookie Collective is calling for contributions for a collective visual release on the theme DIVAGATION:
@@ -343,6 +345,3 @@ Filling this form means that you are aware all theses information shared will be
 ////////////////////
 
 Remplir ce formulaire signifie que tu es conscient.e que toutes les informations partagées seront publiques, et que tu nous autorises à les diffuser. Elles seront publiées dans le fanzine et le github. Si tu as des questions, n’hésite pas à nous contacter via ce mail : [opencallccc@proton.me](mailto:opencallccc@proton.me)
-
-
-[![CCC](https://i.makeagif.com/media/3-03-2025/7CID0L.gif)](https://www.youtube.com/watch?v=TLpuL_JnnWc)
